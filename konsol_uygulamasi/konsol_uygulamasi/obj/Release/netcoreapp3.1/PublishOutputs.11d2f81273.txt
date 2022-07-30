@@ -1,0 +1,5 @@
+C:\Users\ahmts\Desktop\son hali konsol\konsol_uygulamasi.exe
+C:\Users\ahmts\Desktop\son hali konsol\konsol_uygulamasi.dll
+C:\Users\ahmts\Desktop\son hali konsol\konsol_uygulamasi.deps.json
+C:\Users\ahmts\Desktop\son hali konsol\konsol_uygulamasi.runtimeconfig.json
+C:\Users\ahmts\Desktop\son hali konsol\konsol_uygulamasi.pdb
